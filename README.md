@@ -37,11 +37,11 @@
 
 ## 🔥 GitHub Stats & Activity  
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=yourgithub&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourgithub&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irtaza-khan&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irtaza-khan&theme=tokyonight" />
 </p>
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourgithub&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtaza-khan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
