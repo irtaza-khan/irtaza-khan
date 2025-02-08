@@ -25,6 +25,7 @@
 🚀 **Space Shooter** *(C++)*  
 👾 **Pacman** *(Developed in both Assembly & C++)*  
 🏃 **Doodle Dash** *(C++)*  
+🏐 **Zumba (Basic)** *(Assembly)*
 
 ### 🖥️ **Desktop Applications**  
 🏋️‍♂️ **Iron Fusion Gym** *(C# – Gym Management System)*  
