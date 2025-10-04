@@ -10,10 +10,8 @@
 
 ## 📚 What I've Studied 📖
 
-✔️ **High Performance Computing with GPU**
-
 <!-- ✔️ **Programming Fundamentals**   -->
-
+✔️ **High Performance Computing with GPU**
 ✔️ **Artificial Intelligence**  
 ✔️ **Data Structures & Algorithms**  
 ✔️ **Database Systems**  
@@ -48,17 +46,18 @@
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=irtaza-khan" alt="github-stats" width="90%"/>
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=irtaza-khan" alt="github-stats" width="50%"/>
 </p>
 
-<p align="center">
+
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irtaza-khan&show_icons=true&theme=tokyonight&cache_seconds=1800" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irtaza-khan&theme=tokyonight&cache_seconds=1800" />
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtaza-khan&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
+</p> -->
 
 ---
 
