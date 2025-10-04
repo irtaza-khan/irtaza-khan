@@ -48,12 +48,16 @@
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
-  ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=hyochan)
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irtaza-khan&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irtaza-khan&theme=tokyonight" />
+  <img src="https://stats.hyo.dev/api/github-stats-advanced?login=irtaza-khan" alt="github-stats" width="90%"/>
 </p>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtaza-khan&layout=compact&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irtaza-khan&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irtaza-khan&theme=tokyonight&cache_seconds=1800" />
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=irtaza-khan&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
