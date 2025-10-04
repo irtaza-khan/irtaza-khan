@@ -48,6 +48,7 @@
 ## 🔥 GitHub Stats & Activity
 
 <p align="center">
+  ![github-stats](https://stats.hyo.dev/api/github-stats-advanced?login=hyochan)
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=irtaza-khan&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=irtaza-khan&theme=tokyonight" />
 </p>
