@@ -47,6 +47,7 @@
 
 <p align="center">
   <img src="https://stats.hyo.dev/api/github-stats-advanced?login=irtaza-khan" alt="github-stats" width="50%"/>
+  <!-- <img src="./profile-3d-contrib/profile-green-animate.svg" alt="github-stats" width="50%"/> -->
 </p>
 
 
