@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Irtaza Khan
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=false&vCenter=true&lines=BS+Computer+Science+Student;Game+%26+Software+Developer;Exploring+Multithreading+%26+Networking)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=24&center=false&vCenter=true&lines=BS+Computer+Science+Student;Game+%26+Software+Developer;Exploring+Quantum+Computing)
 
 💻 **BS Computer Science (7th Semester) Student**  
 🚀 Passionate about **Quantum Computing, Software Development and Game Development**  
